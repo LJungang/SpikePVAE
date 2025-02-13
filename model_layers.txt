@@ -1,0 +1,3 @@
+Layer: log_rate, Parameter: torch.Size([1, 512])
+Layer: fc_enc.weight, Parameter: torch.Size([512, 256])
+Layer: fc_dec.weight, Parameter: torch.Size([256, 512])
